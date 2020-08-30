@@ -21,10 +21,10 @@ organizations:
 bio: Mis intereses en investigación incluyen heurísticas, metaheurísticas, optimización e inteligencia artificial. Además, fuera del ambito investigador me interesan la programación y la ciberseguridad.
 
 interests:
-- Optimization
-- Artificial Intelligence
-- Cibersecurity
-- Programming
+- Optimización
+- Inteligencia Artificial
+- Ciberseguridad
+- Programación
 
 education:
   courses:
