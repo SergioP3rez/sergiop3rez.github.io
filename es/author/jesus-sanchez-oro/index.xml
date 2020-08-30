@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesús Sánchez-Oro | Sergio Pérez Peló</title>
+    <link>https://sergiop3rez.github.io/es/author/jesus-sanchez-oro/</link>
+      <atom:link href="https://sergiop3rez.github.io/es/author/jesus-sanchez-oro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jesús Sánchez-Oro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 16:55:47 +0000</lastBuildDate>
+    <image>
+      <url>https://sergiop3rez.github.io/images/icon_hu30be828ce64d6d4905cee2fbc6db4328_1397_512x512_fill_lanczos_center_2.png</url>
+      <title>Jesús Sánchez-Oro</title>
+      <link>https://sergiop3rez.github.io/es/author/jesus-sanchez-oro/</link>
+    </image>
+    
+    <item>
+      <title>Finding weaknesses in networks using Greedy Randomized Adaptive Search Procedure and Path Relinking</title>
+      <link>https://sergiop3rez.github.io/es/publication/doi-10-1111-exsy-12540/</link>
+      <pubDate>Sun, 30 Aug 2020 16:55:47 +0000</pubDate>
+      <guid>https://sergiop3rez.github.io/es/publication/doi-10-1111-exsy-12540/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Objective Parallel Iterated Greedy for Solving the p-Center and p-Dispersion Problem</title>
+      <link>https://sergiop3rez.github.io/es/publication/electronics-8121440/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sergiop3rez.github.io/es/publication/electronics-8121440/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Weak Points in Networks Using Variable Neighborhood Search</title>
+      <link>https://sergiop3rez.github.io/es/publication/vns/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sergiop3rez.github.io/es/publication/vns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Analysis of the Influence of the Evaluation Metric in Community Detection over Social Networks</title>
+      <link>https://sergiop3rez.github.io/es/publication/electronics-8010023/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sergiop3rez.github.io/es/publication/electronics-8010023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Metaheuristic Approach for the α-separator Problem</title>
+      <link>https://sergiop3rez.github.io/es/publication/10-1007-978-3-030-03496-2-37/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sergiop3rez.github.io/es/publication/10-1007-978-3-030-03496-2-37/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
