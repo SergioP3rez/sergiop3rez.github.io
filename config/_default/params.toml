@@ -100,7 +100,7 @@ address = {street = "Tulipán S/N", city = "Móstoles, Madrid", postcode = "2893
 coordinates = {latitude = "40.336386", longitude = "-3.876519"}
 
 # Directions for visitors to locate you.
-directions = "Despacho 117, Departamental II"
+directions = "Despacho 104, Departamental II"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
